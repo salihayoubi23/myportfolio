@@ -22,3 +22,8 @@ Suivez ces étapes pour exécuter le projet en local :
    ```bash  
    git clone <URL_DU_REPOSITORY>  
    cd <NOM_DU_DOSSIER>  
+
+   npm install
+   npm start  
+  
+
